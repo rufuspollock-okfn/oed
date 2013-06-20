@@ -27,8 +27,11 @@ Install
 
    * tesseract for doing ocr. On Debian/Ubuntu:: 
 
-        apt-get install tesseract-ocr
+          apt-get install tesseract-ocr
 
    * python and pypdf
 
+3. Run the script:
+
+      python oed.py
 
