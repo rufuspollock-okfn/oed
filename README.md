@@ -1,10 +1,20 @@
 Kragen Sitaker did amazing work back in 2005/2006 'liberating' the OED first
-edition which is now (mostly) in the public domain and He posted up fairly
+edition which is now (mostly) in the public domain and he posted up fairly
 good scans of volumes 1-6 on archive.org (see [1], [2]).
+
+The home pages for the six volumes are:
+
+1. http://www.archive.org/details/oed01arch
+2. http://www.archive.org/details/oed02arch
+3. http://www.archive.org/details/oed03arch
+4. http://www.archive.org/details/oed04arch
+5. http://www.archive.org/details/newenglishdict05murrmiss
+6. (6a) http://www.archive.org/details/oed6aarch
+6. (6b) http://www.archive.org/details/oed6barch 
 
 However at the time he was unable to do much on the OCR front (no doubt because
 of the poor performance of open source OCR, particularly on such a complex text
-as the OED which has lots of non-standard english and font changes). With the
+as the OED which has lots of non-standard English and font changes). With the
 better open source OCR engine it would be possible to convert the OED back into
 text and perhaps wikify it to allow for gradual proof-editing and correction.
 
